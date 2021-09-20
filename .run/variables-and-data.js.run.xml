@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="variables-and-data.js" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" host="atorres205@ddc-web-student.cnm.edu" port="9229" restartOnDisconnect="true">
+    <method v="2" />
+  </configuration>
+</component>
